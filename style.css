@@ -1,1 +1,20 @@
-body{margin:0;font-family:Arial;background:azure;color:black}nav{display:flex;gap:18px;justify-content:center;align-items:center;background:black;padding:15px}nav h2{margin-right:auto;color:gold;padding-left:20px}nav a{color:azure;text-decoration:none}.hero{background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),purple;color:white;text-align:center;padding:120px 20px}h1{color:gold;font-size:48px}section{padding:40px}h2{color:purple}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:15px}.cards div{background:black;color:gold;padding:25px;border:2px solid purple;border-radius:10px;text-align:center}footer{background:black;color:azure;text-align:center;padding:20px}
+body{margin:0;font-family:Arial;background:azure;color:black}
+nav{display:flex;gap:18px;justify-content:center;align-items:center;background:black;padding:15px}
+nav h2{margin-right:auto;color:gold;padding-left:20px}
+nav a{color:azure;text-decoration:none}
+.hero{background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),purple;color:white;text-align:center;padding:120px 20px}
+h1{color:gold;font-size:48px}
+section{padding:40px}h2{color:purple}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:15px}
+.cards div{background:black;color:gold;padding:25px;border:2px solid purple;border-radius:10px;text-align:center}
+footer{background:black;color:azure;text-align:center;padding:20px}
+.tiktok-btn {display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: 0.3s;}
+.tiktok-btn:hover {background: crimson;}
