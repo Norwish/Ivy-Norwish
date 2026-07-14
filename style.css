@@ -29,3 +29,17 @@ footer{background:black;color:azure;text-align:center;padding:20px}
     font-weight:bold;
     transition:0.3s;}
 .brand-btn:hover{background:gold;color:black;}
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 40px;}
+.logo{
+    display:flex;
+    align-items:center;
+    gap:12px;}
+.logo img{
+    width:60px;
+    height:60px;
+    border-radius:50%;}
+.logo h2{margin:0;}
