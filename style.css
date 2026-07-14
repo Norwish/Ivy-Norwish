@@ -1,4 +1,4 @@
-body{margin:0;font-family:Arial;background:azure;color:black}
+body{margin:0;font-family:Arial;font-size:18px;background:azure;color:black}
 nav{display:flex;gap:18px;justify-content:center;align-items:center;background:black;padding:15px}
 nav h2{margin-right:auto;color:gold;padding-left:20px}
 nav a{color:azure;text-decoration:none}
