@@ -18,3 +18,14 @@ footer{background:black;color:azure;text-align:center;padding:20px}
     font-weight: bold;
     transition: 0.3s;}
 .tiktok-btn:hover {background: crimson;}
+.brand-btn{
+    display:inline-block;
+    padding:15px 25px;
+    margin:10px;
+    background:black;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:bold;
+    transition:0.3s;}
+.brand-btn:hover{background:gold;color:black;}
