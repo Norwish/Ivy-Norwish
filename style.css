@@ -34,4 +34,7 @@ nav{
     justify-content:space-between;
     align-items:center;
     padding:15px 40px;}
-
+.history-text {
+    font-size: 22px;
+    line-height: 1.8;
+}
