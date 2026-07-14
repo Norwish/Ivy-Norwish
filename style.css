@@ -39,7 +39,7 @@ nav{
     align-items:center;
     gap:12px;}
 .logo img{
-    width:60px;
-    height:60px;
-    border-radius:50%;}
+    width:15px;
+    height:15px;
+    border-radius:10%;}
 .logo h2{margin:0;}
